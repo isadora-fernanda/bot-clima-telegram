@@ -1,4 +1,4 @@
-   imagens/
-   __pycache__/
-   .env
-   *.pyc
+imagens/
+__pycache__/
+.env
+*.pyc
