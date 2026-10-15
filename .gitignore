@@ -1,0 +1,4 @@
+   imagens/
+   __pycache__/
+   .env
+   *.pyc
